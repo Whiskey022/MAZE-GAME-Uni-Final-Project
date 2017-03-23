@@ -1,0 +1,15 @@
+﻿  main.cpp
+e:\programming\c++\uni\thebigone - copy\thebigone\main.cpp(26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\programming\c++\uni\thebigone - copy\thebigone\main.cpp(32): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\programming\c++\uni\thebigone - copy\thebigone\main.cpp(62): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\programming\c++\uni\thebigone - copy\thebigone\main.cpp(114): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\programming\c++\uni\thebigone - copy\thebigone\main.cpp(174): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\programming\c++\uni\thebigone - copy\thebigone\main.cpp(213): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  TheBigOne.vcxproj -> E:\Programming\C++\UNI\TheBigOne - Copy\Debug\TheBigOne.exe
+  TheBigOne.vcxproj -> E:\Programming\C++\UNI\TheBigOne - Copy\Debug\TheBigOne.pdb (Full PDB)

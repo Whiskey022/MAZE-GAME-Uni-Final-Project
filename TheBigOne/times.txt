@@ -1,0 +1,7 @@
+1|vb|14.07
+2|qaaaaaaaaaaaaaaaa|14.492
+3|qqqqqqqqqqqqq|14.778
+4|jon|14.791
+5|test|16.105
+6|slow|17.134
+7|slowest|23.594
