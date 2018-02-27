@@ -1,0 +1,14 @@
+1|John|11.804
+2|Test5|13.162
+3|Jooon|13.457
+4|vb|14.07
+5|qaaaaaaaaaaaaaaaa|14.492
+6|qqqqqqqqqqqqq|14.778
+7|Test3|15.293
+8|tommma|16.005
+9|test|16.105
+10|Test2|16.361
+11|slow|17.134
+12|Viskis|17.345
+13|Viskis|17.91
+14|slowest|23.594
